@@ -1,0 +1,3 @@
+I teach Python.  Online.  In-person.  In outer space?
+
+Just kidding, I only teach Python on Earth.

@@ -1,0 +1,50 @@
+Script started on Fri May 14 00:53:13 2021
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[32mpython[39m [4mpty_example.py[24m -[0m[27m[24m[J[01;32m➜  [36mpty_example[00m python pty_example.py -a[24D[32mp[32my[32mt[32mh[32mo[32mn[39m [4mp[4mt[4my[4m_[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.[4mp[4my[24m[3C[?1l>[?2004l
+]2;python pty_example.py -a]1;python('Script started, file is', 'typescript')
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mpty_example[00m python pty_example.py -a[24D[32mp[32my[32mt[32mh[32mo[32mn[39m [4mp[4mt[4my[4m_[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.[4mp[4my[24m[3C[?1l>[?2004l
+]2;python pty_example.py -a]1;python('Script started, file is', 'typescript')
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[1m[31me[0m[39mxit[0m[32me[32mx[39m[0m[27m[24m[J[01;32m➜  [36mpty_example[00m exi[1m[31me[1m[31mx[1m[31mi[0m[39mt[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exit('Script done, file is', 'typescript')
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[1m[31me[0m[39mxit[0m[32me[32mx[39m[0m[27m[24m[J[01;32m➜  [36mpty_example[00m exi[1m[31me[1m[31mx[1m[31mi[0m[39mt[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exit('Script done, file is', 'typescript')
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[1m[31mc[0m[39mlear[0m[27m[24m[J[01;32m➜  [36mpty_example[00m cl[1m[31mc[1m[31ml[0m[39mear[1m[31mc[1m[31ml[1m[31me[0m[39m[0m[27m[24m[J[01;32m➜  [36mpty_example[00m clea[1m[31mc[1m[31ml[1m[31me[1m[31ma[0m[39mr[0m[32mc[0m[32ml[0m[32me[0m[32ma[32mr[39m[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[32mclear[39m[32me[32mx[32mi[32mt[39m[39m [0m[27m[24m[J[01;32m➜  [36mpty_example[00m python pty_example.py -a[24D[32mp[32my[32mt[32mh[32mo[32mn[39m [4mp[4mt[4my[4m_[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.[4mp[4my[24m[3C -p[?1l>[?2004l
+]2;python pty_example.py -a -p]1;python
+('Script started, file is', 'typescript')
+
+WARNING: Python 2.7 is not recommended. 
+This version is included in macOS for compatibility with legacy software. 
+Future versions of macOS will not include Python 2.7. 
+Instead, it is recommended that you transition to using 'python3' from within Terminal.
+
+Python 2.7.16 (default, Jun  5 2020, 22:59:21) 
+[GCC 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.29.20) (-macos10.15-objc- on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+KeyboardInterrupt
+>>> 
+KeyboardInterrupt
+>>> ^D
+('Script done, file is', 'typescript')
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mpty_example[00m python pty_example.py -a -p[0m[27m[24m[J[01;32m➜  [36mpty_example[00m python pty_example.py -a -p[27D[32mp[32my[32mt[32mh[32mo[32mn[39m [4mp[4mt[4my[4m_[4me[4mx[4ma[4mm[4mp[4ml[4me[4m.[4mp[4my[24m[6C[?1l>[?2004l
+]2;python pty_example.py -a -p]1;python('Script started, file is', 'typescript')
+
+WARNING: Python 2.7 is not recommended. 
+This version is included in macOS for compatibility with legacy software. 
+Future versions of macOS will not include Python 2.7. 
+Instead, it is recommended that you transition to using 'python3' from within Terminal.
+
+Python 2.7.16 (default, Jun  5 2020, 22:59:21) 
+[GCC 4.2.1 Compatible Apple LLVM 11.0.3 (clang-1103.0.29.20) (-macos10.15-objc- on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> dfgdfgdfg
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'dfgdfgdfg' is not defined
+>>> ^D
+('Script done, file is', 'typescript')
+[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[1m[31mc[0m[39mlear[0m[27m[24m[J[01;32m➜  [36mpty_example[00m cl[1m[31mc[1m[31ml[0m[39mear[1m[31mc[1m[31ml[1m[31me[0m[39m[0m[27m[24m[J[01;32m➜  [36mpty_example[00m clea[1m[31mc[1m[31ml[1m[31me[1m[31ma[0m[39mr[0m[32mc[0m[32ml[0m[32me[0m[32ma[32mr[39m[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs/pty_example]1;..s/pty_example[0m[27m[24m[J[01;32m➜  [36mpty_example[00m [K[?1h=[?2004h[1m[31mc[0m[39mlear[0m[32mc[32md[39m pty_example[12D[1C[4m.[24m.         [10D[0m[27m[24m[J[01;32m➜  [36mpty_example[00m cd ..[32mc[32md[39m [4m.[4m.[24m[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs]1;..ples/src/docs[0m[27m[24m[J[01;32m➜  [36mdocs[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mdocs[00m c[1m[31mc[0m[39md ..[1m[31mc[1m[31ml[0m[39mear[0m[27m[24m[J[01;32m➜  [36mdocs[00m cle[1m[31mc[1m[31ml[1m[31me[0m[39mar[1m[31me[1m[31ma[0m[39m[0m[32mc[0m[32ml[0m[32me[0m[32ma[32mr[39m[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                ]2;nikolaikavtur@Nikolais-MacBook-Pro: ~/IdeaProjects/python-examples/src/docs]1;..ples/src/docs[0m[27m[24m[J[01;32m➜  [36mdocs[00m [K[?1h=[?2004h[0m[27m[24m[J[01;32m➜  [36mdocs[00m e[1m[31me[0m[39mxit[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+]2;exit]1;exitScript done on Fri May 14 13:41:11 2021
