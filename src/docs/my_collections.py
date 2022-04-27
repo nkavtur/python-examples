@@ -1,8 +1,8 @@
+from collections import deque
+
 import itertools
 import sys
 from math import pi
-
-import collections
 
 fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
 
@@ -51,7 +51,7 @@ print(stack)
 
 # Queue operations
 
-queue = collections.deque([3, 1, 2])
+queue = deque([3, 1, 2])
 
 queue.append(10)
 print(queue)
@@ -104,7 +104,7 @@ del a[:]
 print(a)
 
 mylist = [[1, 2, 3], [4, 5, 6]]
-print(*zip(mylist))
+print('zip', *zip(*mylist))
 
 # Sequence Types https://docs.python.org/3/library/stdtypes.html#typesseq
 # A sequence is an iterable that you can index starting from 0 until 1 less than the length of the sequence.
@@ -147,7 +147,7 @@ print(a)
 # * and ** unpacking examples
 fruits = ['lemon', 'pear', 'watermelon', 'tomato']
 print(*fruits[1:], fruits[0])
-uppercase_fruits = (f.upper() for f in fruits)
+uppercase_fruits = [f.upper() for f in fruits]
 print({*fruits, *uppercase_fruits})
 print(set().union(fruits, uppercase_fruits))
 
@@ -165,6 +165,7 @@ map = {'a': 1, 'b': 2, 'c': 3}
 
 sequence = [1, 2, 2, 1]
 
+print('all and any:')
 print(all(n == m for n, m in zip(sequence, reversed(sequence))))
 print(not any(n != m for n, m in zip(sequence, reversed(sequence))))
 
@@ -177,6 +178,7 @@ del tel['sape']
 tel['irv'] = 4127
 print(tel)
 
+print('tel: ')
 print(list(tel))
 print(sorted(tel))
 print('guido' in tel)
@@ -210,6 +212,7 @@ if not numbers:
 
 # iterators
 
+print('size: ')
 lots_of_forth = itertools.repeat(4, 1_000_000)
 print(sys.getsizeof(lots_of_forth))
 
@@ -259,7 +262,6 @@ def squares(iterable):
 
 
 squares = squares(favorite_numbers)
-print(squares)
 print(next(squares))
 print(next(squares))
 
