@@ -1,4 +1,4 @@
-ROMAN_TO_ARABIC = {
+numbers = {
     'M': 1000,
     'CM': 900,
     'D': 500,
@@ -49,13 +49,13 @@ print(int_to_roman(1999) == 'MCMXCIX')
 
 
 def roman_to_int(roman_number):
-    if not set(roman_number).issubset(ROMAN_TO_ARABIC.keys()):
+    if not set(roman_number).issubset(numbers.keys()):
         raise ValueError("Invalid symbols in Roman numeral")
 
     result = 0
 
     i = 0
-    for symbol, value in ROMAN_TO_ARABIC.items():
+    for symbol, value in numbers.items():
         while roman_number[i:i + len(symbol)] == symbol:
             result += value
             i += len(symbol)
